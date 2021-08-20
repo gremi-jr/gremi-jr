@@ -3,7 +3,7 @@
 $ about
 
 Hi, ich bin Timo!
-Aktuell bin ich im dritten Lehrjahr und am Anfang des 7. und voraussichtlich letzten Semesters der FOM in Essen. 
+Aktuell bin ich am Anfang des 7. und voraussichtlich letzten Semesters der FOM in Essen. 
 Nachdem ich mein Abitur 2018 beendet habe, öffnete sich wie für viele andere auch, ein neuer Lebensweg. 
 Wohin die Richtung geht, konnte ich nur erahnen. Als ich mein duales Studium begonnen habe wuchs meine 
 Leidenschaft für Technik. Seit dem beschäftige ich mich immer mehr mit Softwareentwicklung und allen 
