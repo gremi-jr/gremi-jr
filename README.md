@@ -18,7 +18,7 @@ $ neofetch
                                                             
                     %(((((((((((/(((((((((#                     timo@gremi-jr
                 (((((((((                   (((                 --------------
-             (((/(((#                           #(              Uptime: 22 Jahre
+             (((/(((#                           #(              Uptime: 23 Jahre
            ((((((%                                 (%           Editor: VS Code
          ((((((                                      #          Shell: zsh
        %((((((                                         #        OS: macOS/Ubuntu
